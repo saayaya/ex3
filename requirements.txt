@@ -1,3 +1,7 @@
 pandas
 scikit-learn
 joblib
+numpy
+datasets
+transformers
+torch
